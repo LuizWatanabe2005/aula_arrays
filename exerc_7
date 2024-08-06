@@ -1,0 +1,11 @@
+<?php
+
+$usuario=[
+	"nome" => "Luiz",
+	"email" => "luizgustavowatanabe@gmail.com",
+	"idade" => "18",
+	"cidade" => "Cornélio Procópio"
+];
+	print_r($usuario);
+	
+?>
