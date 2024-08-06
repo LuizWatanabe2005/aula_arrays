@@ -1,0 +1,5 @@
+<?php
+
+echo "3. Dia do mês: " . date("d") . "\n";
+
+?>
