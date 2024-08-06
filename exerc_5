@@ -1,0 +1,7 @@
+<?php
+
+$pao= array('miojo ', 'borracha ', 'gasolina ');
+print_r($pao)
+
+
+?>
